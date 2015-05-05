@@ -4,7 +4,7 @@ The idea behind vioso is to turn your make your make your vim sessions musical. 
 
 # future and questions
 
-Vioso is just a prototype that I created to see how it feels to create some kind of mapping between programming and code.  It turns out that the pauses aren't nearly as bad as I thought.  
+Vioso is just a prototype that I created to see how it feels to create some kind of mapping between programming and music (in a guitar-hero-eque sort of way).  It turns out that the pauses aren't nearly as bad as I thought.  
 
 
 Music is an incredibly important tool in programming. It's certainly critical for me.  My initial experiment has left me with a number of questions like... How could we integrate music with the development process in such a way that we improve performance?  Could we create mappings between code an syntax?  Could we make those mapping sound like music, yet still make them unique?  If so, would that augment the programming experience?  Could we develop an "intuition" about algorithms based on how they sound?
